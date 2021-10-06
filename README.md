@@ -1,10 +1,10 @@
-# elso-weboldal<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
-<h2>kep</h2>
-<p>monke:</p>
+    <h2>Kép</h2>
+    <p>Steelseries Keyboard</p>
 
-<img src="https://szenteltviz.github.io/elso-weboldal/unnamed%20(1).jpg" alt="W3Schools.com" width="279" height="402">
+    <img src="https://cdn.cgmagonline.com/wp-content/uploads/2017/09/steelseries-apex-m750-mechanical-keyboard-review-9.jpg" alt="Keyboard" width="800" height="600">
 
 </html>
